@@ -1,0 +1,154 @@
+plots<-read.table("Metadata_general.csv", header=T, sep=";", dec='.')
+hyf<-read.table("Hyphal_length_analyses_ITEX.csv", header=T, sep=";", dec=',')
+str(hyf)
+names(hyf)
+hyf <- hyf[, c("Label", "Hyphal_length_uns", "Hyphal_length_sept", "Total_hyphal_length")]
+names(hyf)[names(hyf) == "Hyphal_length_uns"] <- "Unsep"
+names(hyf)[names(hyf) == "Hyphal_length_sept"] <- "Sep"
+names(hyf)[names(hyf) == "Total_hyphal_length"] <- "Total"
+
+help(merge)
+
+names(df)
+str(df)
+df<-merge(plots,hyf, by="Label")
+names(df)[names(df) == "Treatment"] <- "tt"
+
+df[] <- lapply(df, function(x) if (is.character(x)) as.factor(x) else x)
+df$Block<-as.factor(df$Block)
+
+boxplot(log(df$Sep)~df$tt)
+boxplot(log(df$Unsep)~df$tt)
+boxplot(log(df$Total)~df$tt)
+
+
+#Start-----------------------------------------------
+#how does abundance change?
+
+tapply(log1p(df$Sep),df$tt,mean);tapply(log1p(df$Sep),df$tt,function(x) sd(x) / mean(x))
+tapply(log1p(df$Unsep),df$tt,mean);tapply(log1p(df$Unsep),df$tt,function(x) sd(x) / mean(x))
+tapply(log1p(df$Total),df$tt,mean);tapply(log1p(df$Total),df$tt,function(x) sd(x) / mean(x))
+
+
+m0<-gls(log1p(Sep)~tt*Site, data=df, method="REML")
+summary(m0)
+par(mfrow=c(2,3))
+qqnorm(scale(resid(m0)));abline(0,1,col=2)
+hist(resid(m0))
+plot(resid(m0)~fitted(m0));abline(h=0)
+plot(resid(m0)~df$tt);abline(h=0,col=2)
+plot(resid(m0)~df$Block)
+AIC(m0)
+
+m1<-lme(log1p(Sep)~tt*Site,random=~1|Label, data=df, method="REML") #!
+m2<-lme(log1p(Sep)~tt*Site,random=~1|Block, data=df, method="REML") #eh
+m3<-lme(log1p(Sep)~tt*Site,random=~1|Site, data=df, method="REML")
+m4<-lme(log1p(Sep)~tt*Site,random=~1|Location, data=df, method="REML")
+m5<-lme(log1p(Sep)~tt*Site,random=~1|Block/Label, data=df, method="REML")
+m6<-lme(log1p(Sep)~tt*Site,random=~1|Site/Block/Label, data=df, method="REML") #!
+m7<-lme(log1p(Sep)~tt*Site,random=~1|Location/Site/Block/Label, data=df, method="REML") #!
+
+anova(m0,m1,m2,m3,m4,m5,m6,m7)
+
+par(mfrow=c(2,3))
+qqnorm(scale(resid(m1)));abline(0,1,col=2)
+hist(resid(m1))
+plot(resid(m1)~fitted(m1));abline(h=0)
+plot(resid(m1)~df$tt);abline(h=0,col=2)
+plot(resid(m1)~df$Block)
+plot(resid(m1)~df$Site)
+
+par(mfrow=c(2,3))
+qqnorm(scale(resid(m5)));abline(0,1,col=2)
+hist(resid(m5))
+plot(resid(m5)~fitted(m5));abline(h=0)
+plot(resid(m5)~df$tt);abline(h=0,col=2)
+plot(resid(m5)~df$Block)
+plot(resid(m5)~df$Site)
+
+m1.2<-lme(log1p(Sep)~tt*Site,random=~tt|Label, data=df, method="REML")
+m5.<-lme(log1p(Sep)~tt*Site,random=~tt|Site/Label, data=df, method="REML")
+anova(m0,m1,m1.2, m5, m5.2)
+
+
+m8<-lme(log1p(Sep)~tt*Site,random=~1|Label,data=df,method="REML",weights=varComb(varIdent(form=~1|tt)))
+#m9<-lme(log1p(Sep)~tt*Site,random=~1|Label,data=df,method="REML",weights=varComb(varIdent(form=~1|Block)))
+m12<-lme(log1p(Sep)~tt*Site,random=~1|Label,data=df,method="REML",weights=varComb(varIdent(form=~1|Site)))
+m10<-lme(log1p(Sep)~tt*Site,random=~1|Label,data=df,method="REML",weights=varComb(varPower(form=~fitted(.))))
+m11<-lme(log1p(Sep)~tt*Site,random=~1|Label,data=df,method="REML",weights=varComb(varExp(form=~fitted(.))))
+anova(m0,m5,m8,m10,m11,m12)
+
+par(mfrow=c(2,3))
+qqnorm(scale(resid(m10,type="n")));abline(0,1,col=2)
+hist(resid(m10,type="n"))
+plot(resid(m10,type="n")~fitted(m10,type="n"));abline(h=0)
+plot(resid(m10,type="n")~df$tt);abline(h=0,col=2)
+plot(resid(m10,type="n")~df$Block)
+plot(resid(m10,type="n")~df$Site)
+
+m10.ml<-lme(log1p(Sep)~tt*Site,random=~1|Block/Label,data=df,method="ML",weights=varComb(varPower(form=~fitted(.))))
+anova(m10.ml, type = "marginal")
+m10.ml<-lme(log1p(Sep)~tt+Site,random=~1|Block/Label,data=df,method="ML",weights=varComb(varPower(form=~fitted(.))))
+anova(m10.ml, type = "marginal")
+summary(m10.ml)
+m10.reml<-lme(log1p(Sep)~tt+Site,random=~1|Block/Label,data=df,method="REML",weights=varComb(varPower(form=~fitted(.))))
+
+#m10.2<-lme(log1p(Sep)~tt,random=~1|Site/Block/Label,data=df,method="REML",weights=varComb(varIdent(form=~1|Block),varPower(form=~fitted(.))))
+#anova(m10,m10.2)
+#Site A has a block 1, so does site B, so fixing the blocks like this makes little sense
+#andere manier vinden want slope is numerical, niet factorial.
+summary(m10.reml)
+library(effects)
+plot(allEffects(m10.reml))
+
+augment(m10.reml)
+
+interaction.plot(
+  x.factor = df$tt,
+  trace.factor = df$Site,
+  response = log1p(df$Sep),
+  fun = mean,
+  type = "b",  # both lines and points
+  legend = F,
+  ylab = "Sep",
+  xlab = "tt",
+  trace.label = "Site",
+  #col = c("black", "#E69F00", "#56B4E9", "#009E73", "#F0E442",
+   #       "#0072B2", "#D55E00", "#CC79A7", "darkgrey", "orchid4"),
+  pch = rep(16, length(unique(df$tt))),
+  lty = 1
+)
+#Overal OTC increases sept
+#Effect clearly differs a lot by site.
+#how do i work with this...
+
+
+library(dplyr)
+library(broom)
+
+per_site_models <- df %>%
+  group_by(Site) %>%
+  nest() %>%
+  mutate(
+    model = map(data, ~ lm(log1p(Sep) ~ tt, type="REML", data = .x)),
+    tidied = map(model, broom.mixed::tidy)  # broom::tidy() won't work on lmer objects
+  ) %>%
+  unnest(tidied)
+
+per_site_models
+print(per_site_models,n = 50)
+
+significant_sites <- per_site_models %>%
+  filter(term == "ttOTC", p.value < 0.05)
+print(significant_sites)
+
+
+c0<-lm(log1p(Sep) ~ tt, data = df[df$Site == "15.ch", ], type ="REML")
+summary(c0)
+par(mfrow=c(2,3))
+qqnorm(scale(resid(c0)));abline(0,1,col=2)
+hist(resid(c0))
+plot(resid(c0)~fitted(c0));abline(h=0)
+plot(resid(c0)~df$tt);abline(h=0,col=2)
+plot(resid(c0)~df$Block)
+AIC(c0)
