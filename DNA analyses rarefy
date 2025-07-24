@@ -1,0 +1,28 @@
+map<-read.table('ASV_taxonomy_lou.txt')
+
+ASV_counts<-read.table('ASVs_counts_lou.tsv')
+ASV_counts<-t(ASV_counts) #pivot table
+
+library(vegan)
+rarecurve(ASV_counts, step = 500, xlab = "Sample Size", ylab = "Species", label = F)
+
+ASVXXX=ASV_counts[rowSums(ASV_counts) > 4000-1,]
+rarefied=rrarefy(ASVXXX, sample= 4000)
+sum(colSums(rarefied)==0) ## 2736
+ASVrarefiednozero =rarefied[,colSums(rarefied)>0]
+length(ASVrarefiednozero[1,]) # how many ASV's are still there?  11292
+rarecurve(ASVrarefiednozero, step = 10, xlab = "Sample Size", ylab = "Species", label = F)
+write.table(ASVrarefiednozero, file="rarefied_fungi.txt")
+
+ASVmat=read.table(as.matrix("rarefied_fungi.txt"))
+
+#Normalize data
+ASVmat<- t(apply(ASVmat,1, function(x) x/sum(x, na.rm=TRUE)))#Normalize the data to sample (= relative gene abundance per sample)
+rowSums(ASVmat)
+
+ordr<-metaMDS(ASVmat, distance = "bray", k = 2)
+scrs=as.data.frame(scores(ordr)$sites)
+
+library(ggplot2)
+ggplot(scrs, aes(NMDS1, NMDS2)) + 
+  geom_point(aes(shape=env$Management, color=env$Depth),size=5) +  theme_light()
