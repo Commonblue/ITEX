@@ -1,0 +1,80 @@
+library(vegan);library(ggplot2);library(glmmTMB)
+
+Taxon<-read.table('ASV_taxonomy_lou.txt') 
+ASVmatrix<-read.table(as.matrix("rarefied_fungi.txt")) 
+META<-read.table("Metadata_general.csv", header=T, sep=";", dec=",")
+Traits<-read.table('f_traits_arr.txt', header=T)
+
+
+Genus <- Taxon[!is.na(Taxon$Genus),]
+Genus <- Genus[ , 6, drop = FALSE]
+Genus$Genus <- sub("^g__", "", Genus$Genus)
+names(Genus)[names(Genus) == "Genus"] <- "GENUS"
+Traits <- Traits[, c(1:3)]
+Traits[] <- lapply(Traits, function(x) if (is.character(x)) as.factor(x) else x)
+Traits<- Traits[
+  Traits$primary_lifestyle %in% c("ericoid_mycorrhizal") 
+  | Traits$Secondary_lifestyle %in% c("ericoid_mycorrhizal"),]
+ikwil <- c("ericoid_mycorrhizal")
+Traits$Mycorrhizal_type <- apply(Traits[, c("primary_lifestyle", "Secondary_lifestyle")], 1, function(x) {
+  paste(unique(x[x %in% ikwil]), collapse = ",")
+})
+Eric <- Traits[, c("GENUS", "Mycorrhizal_type")]; Eric$GENUS<-as.character(Eric$GENUS)
+Genus <- Genus[Genus$GENUS %in% Eric$GENUS,,drop=F]
+Eric <- Eric[match(Genus$GENUS, Eric$GENUS),,drop=F]
+Genus_Eric <- data.frame(GENUS = Genus$GENUS,Mycorrhizal_type = Eric$Mycorrhizal_type,row.names = rownames(Genus))
+
+
+ASVmatrix_Eric<- ASVmatrix[ , colnames(ASVmatrix) %in% rownames(Genus_Eric),]
+
+
+
+META2<-META
+rownames(META) <- META$Label2; META$Label2 <- NULL 
+META=META[rownames(META) %in% rownames(ASVmatrix_Eric),]
+ASVmatrix_Eric=ASVmatrix_Eric[rownames(ASVmatrix_Eric) %in% rownames(META),] 
+META=META[match(rownames(ASVmatrix_Eric),rownames(META)),]
+str(META)
+META[] <- lapply(META, function(x) if (is.character(x)) as.factor(x) else x)
+META[] <- lapply(META, function(x) if (is.integer(x)) as.factor(x) else x)
+META$elevation<-as.numeric(META$elevation)
+
+
+#richness, too unstable to work with --------------------------------------------
+richness=as.matrix(specnumber(ASVmatrix_Eric))
+colnames(richness)= "richness"
+
+META=merge(META, richness, by="row.names")
+rownames(META)=META[,1]
+META[,1]=NULL
+
+ggplot(META, aes(x = Vegetationtype,
+                 y = richness,
+                 fill = Treatment)) +
+  geom_boxplot(position = position_dodge()) +
+  geom_jitter(color="black", size=0.4, alpha=0.9) +
+  theme_minimal()
+
+META <- subset(META,
+                 !(Site %in% c("15.ch","20.ch", "25.ch","wh.ch", "fi.no", "ra.sp", "sk.no", "sv.no", "nr.us", "ul.sp", "vb.ch", "aw.us", "ul.no"))&
+               !(richness > 3 ))
+
+
+m0<- glmmTMB(richness~Treatment*(Vegetationtype+MAT+MAP+Lattitude+elevation+Time) + (MAT+MAP+Lattitude+elevation)^2 ,family = poisson, data = META)
+
+m1<- glmmTMB(richness~Treatment*(Vegetationtype+Time +MAT+MAP+Lattitude+elevation),ziformula = ~ 1,family = poisson, data = META)
+
+str(META)
+library(DHARMa)
+sim_res <- simulateResiduals(m1)
+par(mfrow=c(3,3))
+plot(sim_res)        # overall diagnostic plots
+plotResiduals(sim_res, form = META$Treatment)
+plotResiduals(sim_res, form = META$Vegetationtype)
+plotResiduals(sim_res, form = META$MAT)
+plotResiduals(sim_res, form = META$MAP)
+plotResiduals(sim_res, form = META$Lattitude)
+plotResiduals(sim_res, form = META$elevation)
+plotResiduals(sim_res, form = META$Time)
+testDispersion(sim_res)   # overdispersion check
+testZeroInflation(sim_res)  # zero-inflation check
