@@ -1,0 +1,108 @@
+library(reshape2);library(ggplot2)
+ASVmatrix<-read.table(as.matrix("rarefied_fungi.txt"))
+Taxon<-read.table('ASV_taxonomy_lou.txt') #ASV's met naam
+Traits<-read.table('f_traits_arr.txt', header=T)
+META<-read.table("Metadata_general.csv", header=T, sep=";", dec=",")
+
+
+Genus <- Taxon[!is.na(Taxon$Genus),]
+Genus <- Genus[ , 6, drop = FALSE]
+Genus$Genus <- sub("^g__", "", Genus$Genus)
+names(Genus)[names(Genus) == "Genus"] <- "GENUS"
+Phylum <- Taxon[!is.na(Taxon$Phylum),]
+Phylum <- Phylum[ , 2, drop = FALSE]
+Phylum$Phylum <- sub("^p__", "", Phylum$Phylum)
+Phylum <- Phylum[Phylum$Phylum == "Glomeromycota",, drop=F ]
+names(Phylum)[names(Phylum) == "Phylum"] <- "GENUS"
+
+Traits<- Traits[
+  Traits$primary_lifestyle %in% c("ectomycorrhizal", "ericoid_mycorrhizal") 
+  | Traits$Secondary_lifestyle %in% c("ectomycorrhizal", "ericoid_mycorrhizal"),]
+ikwil <- c("ectomycorrhizal", "ericoid_mycorrhizal")
+Traits$Mycorrhizal_type <- apply(Traits[, c("primary_lifestyle", "Secondary_lifestyle")], 1, function(x) {
+  paste(unique(x[x %in% ikwil]), collapse = ",")
+})
+Genus_mycorrhizae <- Genus[, "GENUS", drop = FALSE]
+Genus_mycorrhizae$Mycorrhizal_type <- Traits$Mycorrhizal_type[match(Genus$GENUS, Traits$GENUS)]
+Genus_mycorrhizae <- na.omit(Genus_mycorrhizae)
+Phylum$Mycorrhizal_type <- "arbuscular_mycorrhizal"
+Genus_mycorrhizae<-rbind(Genus_mycorrhizae,Phylum)
+
+ASVmatrix_myc<- ASVmatrix[ , colnames(ASVmatrix) %in% rownames(Genus_mycorrhizae), drop = FALSE]
+ASVmatrix_myc<- ASVmatrix_myc[rowSums(ASVmatrix_myc) > 0, ]
+
+
+META<-read.table("Metadata_general.csv", header=T, sep=";", dec=",")
+str(META)
+rownames(ASVmatrix_myc)
+rownames(META) <- META$Label2; META$Label2 <- NULL #set label2 as rownames and remove
+META=META[rownames(META) %in% rownames(ASVmatrix_myc),]
+
+ASVmatrix_myc=ASVmatrix_myc[rownames(ASVmatrix_myc) %in% rownames(META),] 
+META=META[match(rownames(ASVmatrix_myc),rownames(META)),]
+META[] <- lapply(META, function(x) if (is.character(x)) as.factor(x) else x)
+META[] <- lapply(META, function(x) if (is.integer(x)) as.factor(x) else x)
+
+
+ASVmatrix_myc<- t(apply(ASVmatrix_myc,1, function(x) x/sum(x, na.rm=TRUE)))
+
+#-------------------------------------------------
+library(vegan)
+#nmds
+NMDS<-metaMDS(ASVmatrix_myc, distance = "bray", k =2 , trymax = 100, noshare=F)
+scrs<-as.data.frame(scores(NMDS)$sites)
+centroid <- colMeans(scrs)
+distances <- apply(scrs, 1, function(x) sqrt(sum((x - centroid)^2)))
+scrs$distance <- distances
+
+keep_samples <- rownames(scrs)[scrs$distance <= 100]
+
+# Filter ASV table
+ASVmatrix_myc_filtered <- ASVmatrix_myc[keep_samples, ]
+
+NMDS<-metaMDS(ASVmatrix_myc_filtered, distance = "bray", k =2 , trymax = 100, noshare=T)
+NMDS$stress  # Should be a reasonable value (e.g., < 0.2)
+par (mfrow = c(1,2))
+ordiplot (NMDS, cex = 1.5, type = 't')
+stressplot (NMDS)
+scrs<-as.data.frame(scores(NMDS)$sites)
+
+META<-read.table("Metadata_general.csv", header=T, sep=";", dec=",")
+str(META)
+rownames(ASVmatrix_myc_filtered)
+rownames(META) <- META$Label2; META$Label2 <- NULL #set label2 as rownames and remove
+META=META[rownames(META) %in% rownames(ASVmatrix_myc_filtered),]
+ASVmatrix_myc_filtered=ASVmatrix_myc_filtered[rownames(ASVmatrix_myc_filtered) %in% rownames(META),] 
+META=META[match(rownames(ASVmatrix_myc_filtered),rownames(META)),]
+META[] <- lapply(META, function(x) if (is.character(x)) as.factor(x) else x)
+META[] <- lapply(META, function(x) if (is.integer(x)) as.factor(x) else x)
+META$elevation<-as.numeric(META$elevation)
+META$Time<-as.factor(META$Time)
+str(META)
+
+library(ggplot2)
+ggplot(scrs, aes(NMDS1, NMDS2)) + 
+  geom_point(aes(shape=META$Treatment, color=META$Vegetationtype),size=2) +  theme_light()
+
+
+#RDA = nmds+ accounting for environmental factors
+
+dist_mat1=vegdist(decostand(ASVmatrix_myc_filtered, method='hellinger'), method="bray")
+
+#variations of tr independent of Sites.
+dbrda_mod1=dbrda(dist_mat1~Treatment + Condition(Site), data=META)
+db_scrs <- as.data.frame(scores(dbrda_mod1, display = "sites"))
+
+ggplot(db_scrs, aes(dbRDA1, MDS1)) + 
+  geom_point(aes(shape=META$Treatment, color=META$Vegetationtype),size=2) +  
+  stat_ellipse(aes(group = META$Treatment), linetype = 2) +
+  theme_light()
+summary(dbrda_mod1)
+
+
+library(pairwiseAdonis)
+A<-adonis2(dist_mat1 ~ Treatment * Time * Vegetationtype, strada(META$Site), sim.method="hellinger", data = META, permutations = 999, by="terms")
+A
+
+P<-adonis2(dist_mat1 ~ MAT+Vegetationtype+elevation+MAP+Lattitude+Time+Time:Vegetationtype, strada(META$Site), sim.method="hellinger", data = META, permutations = 999, by="terms")
+P
