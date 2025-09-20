@@ -1,0 +1,280 @@
+﻿Site;Location;Lattitude;Longitude;MAT;MAP;elevation;participation;Label;Block;Treatment;VegetationOG;Vegetationtype;Label2;Startyear;Time
+15.ch;Davos;46,76;9,8578;3,35;1367,6;1534;2;15-ch-cont-12-2;12;C;alpine grassland;Alpine grassland;Swi_Br_12_B_cont;2023;1,00
+15.ch;Davos;46,76;9,8578;3,35;1367,6;1534;2;15-ch-cont-21-1;21;C;alpine grassland;Alpine grassland;Swi_Br_21_A_cont;2023;1,00
+15.ch;Davos;46,76;9,8578;3,35;1367,6;1534;2;15-ch-cont-21-2;21;C;alpine grassland;Alpine grassland;Swi_Br_21B_cont;2023;1,00
+15.ch;Davos;46,76;9,8578;3,35;1367,6;1534;2;15-ch-cont-7-1;7;C;alpine grassland;Alpine grassland;Swi_Br_7A_cont;2023;1,00
+15.ch;Davos;46,76;9,8578;3,35;1367,6;1534;2;15-ch-OTC-12-1;12;OTC;alpine grassland;Alpine grassland;Swi_Br_12A_OTC;2023;1,00
+15.ch;Davos;46,76;9,8578;3,35;1367,6;1534;2;15-ch-OTC-12-2;12;OTC;alpine grassland;Alpine grassland;Swi_Br_12_B_OTC;2023;1,00
+15.ch;Davos;46,76;9,8578;3,35;1367,6;1534;2;15-ch-OTC-21-2;21;OTC;alpine grassland;Alpine grassland;Swi_Br_21_OTC_B;2023;1,00
+15.ch;Davos;46,76;9,8578;3,35;1367,6;1534;2;15-ch-OTC-7-1;7;OTC;alpine grassland;Alpine grassland;Swi_Bru_7A_OTC;2023;1,00
+15.ch;Davos;46,76;9,8578;3,35;1367,6;1534;2;15-ch-OTC-7-2;7;OTC;alpine grassland;Alpine grassland;Swi_Bru_7B_OTC;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-cont-15-1;15;C;alpine grassland;Alpine grassland;Sw_CLA_15A_AMBI;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-cont-15-2;15;C;alpine grassland;Alpine grassland;Sw_CLA_V_15B_AMBI;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-cont-20-1;20;C;alpine grassland;Alpine grassland;Swi_CLA_20_A_cont;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-cont-20-2;20;C;alpine grassland;Alpine grassland;Swi_CLA_ALP_20B_cont;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-cont-6-2;6;C;alpine grassland;Alpine grassland;Swi_CLA_APL_cont;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-OTC-15-1;15;OTC;alpine grassland;Alpine grassland;Sw_CLA_15A_OTC;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-OTC-15-2;15;OTC;alpine grassland;Alpine grassland;Sw_CLA_15B_OTC;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-OTC-20-1;20;OTC;alpine grassland;Alpine grassland;Sw_CLA_P_5A_OTC;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-OTC-20-2;20;OTC;alpine grassland;Alpine grassland;Sw_CLA_20B_OTC;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-OTC-6-1;6;OTC;alpine grassland;Alpine grassland;Swi_CLA_ALC_60_TCA;2023;1,00
+20.ch;Davos;46,76;9,8578;0,25;1457,2;2084;2;20-ch-OTC-6-2;6;OTC;alpine grassland;Alpine grassland;Swi_Swi_CLA_ALP_6B_OTC;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-cont-14-1;14;C;alpine grassland;Alpine grassland;Sw_JAT_14A_AMBI;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-cont-14-2;14;C;alpine grassland;Alpine grassland;Sw_JAT_14B_AMBI;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-cont-19-1;19;C;alpine grassland;Alpine grassland;Sw_JAT_19A_AMBI;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-cont-19-2;19;C;alpine grassland;Alpine grassland;Sw_JAT_19B_AMBI;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-cont-6-1;6;C;alpine grassland;Alpine grassland;Sw_JAT_6A_AMBI;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-cont-6-2;6;C;alpine grassland;Alpine grassland;Sw_JAT_6B_AMBI;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-OTC-14-1;14;OTC;alpine grassland;Alpine grassland;Sw_JAT_14_OTC_A;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-OTC-14-2;14;OTC;alpine grassland;Alpine grassland;Sw_JAT_14_OTC_B;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-OTC-19-1;19;OTC;alpine grassland;Alpine grassland;Sw_JAT_19_OTC_A;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-OTC-6-1;6;OTC;alpine grassland;Alpine grassland;Sw_JAT_6A_OTC;2023;1,00
+25.ch;Davos;46,76;9,8578;-2,45;1660;2320;2;25-ch-OTC-6-2;6;OTC;alpine grassland;Alpine grassland;Sw_JAT_6_OTC_B;2023;1,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-cont-1-1;1;C;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_cont_11;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-cont-2-2;2;C;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_cont_22;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-cont-3-1;3;C;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_cont_31;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-cont-3-2;3;C;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_cont_32_1;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-cont-4-1;4;C;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_cont_41;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-OTC-1-1;1;OTC;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_OTC_11;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-OTC-1-2;1;OTC;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_OTC_12;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-OTC-2-1;2;OTC;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_OTC_21;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-OTC-3-1;3;OTC;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_OTC_31;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-OTC-3-2;3;OTC;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_OTC_32;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-OTC-4-1;4;OTC;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_OTC_41;2017;7,00
+ad.ad;Andorra;42,62;14,8186;0,55;1560,4;2535;8;Ad-ad-OTC-4-2;4;OTC;Salix herbacea snowbed;Shrub snowbed;Ad_AdAd_OTC_42;2017;7,00
+aw.us;Atqasuk;64,13;-157,4003018;-10,65;260,7;17;29;Aw-us-cont-1;1;C;Wet Meadow;Wet meadow tundra;Us_1w_OTC_11_R;1996;28,00
+aw.us;Atqasuk;64,13;-157,4003018;-10,65;260,7;17;29;Aw-us-cont-13;2;C;Wet Meadow;Wet meadow tundra;Us_1W_CTL_13_1;1996;28,00
+aw.us;Atqasuk;64,13;-157,4003018;-10,65;260,7;17;29;Aw-us-cont-17;3;C;Wet Meadow;Wet meadow tundra;Us_1w_OTC_171;1996;28,00
+aw.us;Atqasuk;64,13;-157,4003018;-10,65;260,7;17;29;Aw-us-cont-9;4;C;Wet Meadow;Wet meadow tundra;Us_1w_OTC_0901;1996;28,00
+aw.us;Atqasuk;64,13;-157,4003018;-10,65;260,7;17;29;Aw-us-OTC-1;5;OTC;Wet Meadow;Wet meadow tundra;Us_1w_OTC_11;1996;28,00
+aw.us;Atqasuk;64,13;-157,4003018;-10,65;260,7;17;29;Aw-us-OTC-15;6;OTC;Wet Meadow;Wet meadow tundra;Us_1w_OTC_15_1;1996;28,00
+aw.us;Atqasuk;64,13;-157,4003018;-10,65;260,7;17;29;Aw-us-OTC-5;7;OTC;Wet Meadow;Wet meadow tundra;Us_1w_OTC_5_1;1996;28,00
+aw.us;Atqasuk;64,13;-157,4003018;-10,65;260,7;17;29;Aw-us-OTC-9;8;OTC;Wet Meadow;Wet meadow tundra;Us_1w_OTC_09_1;1996;28,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-cont-10D;11;C;Alpine Dryas heath;Heath;No_C10D_Finse_1_1;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-cont-1A;4;C;Alpine Dryas heath;Heath;No_FC_control_C1A;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-cont-2A;2;C;Alpine Dryas heath;Heath;Fi_Fi_No_C2_A1_2;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-cont-3D;1;C;Alpine Dryas heath;Heath;No_Fr_No_C3D1;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-cont-5D;8;C;Alpine Dryas heath;Heath;No_C_CSO_Finse_1;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-cont-6A;9;C;Alpine Dryas heath;Heath;No_C6A_control_Finse;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-OTC-10C;10;OTC;Alpine Dryas heath;Heath;No_OTC_010_C_Finse_1;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-OTC-2D;7;OTC;Alpine Dryas heath;Heath;No_Fi_No_OTC_02D;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-OTC-3A;3;OTC;Alpine Dryas heath;Heath;No_Fi_No_OTC_03A;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-OTC-4B;5;OTC;Alpine Dryas heath;Heath;No_Finse_OTC_04_B1;2000;24,00
+fi.no;Finse;60,61;7,5046;-0,35;1655,2;1500;25;Fi-no-OTC-5B;6;OTC;Alpine Dryas heath;Heath;No_Finse_OTC_05B;2000;24,00
+fn.pa.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-pa-no-cont-1P;1;C;permafrost palsa;Shrub snowbed;No_Fn_Pa_1PC_1;2019;5,00
+fn.pa.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-pa-no-cont-3P;3;C;permafrost palsa;Shrub snowbed;No_Fn_Pa_3_PC_1;2019;5,00
+fn.pa.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-pa-no-cont-4P;4;C;permafrost palsa;Shrub snowbed;No_Fn_Pa_4_Pc;2019;5,00
+fn.pa.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-pa-no-cont-BP;2;C;permafrost palsa;Shrub snowbed;No_Fn_Pa_BP_C1;2019;5,00
+fn.pa.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-pa-no-OTC-3P;3;OTC;permafrost palsa;Shrub snowbed;No_Fn_Pa_3P_OTC_1;2019;5,00
+fn.pa.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-pa-no-OTC-4P;4;OTC;permafrost palsa;Shrub snowbed;No_Fr_Pa_4P_OTC;2019;5,00
+fn.pa.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-pa-no-OTC-BP;2;OTC;permafrost palsa;Shrub snowbed;No_Fr_Pa_BP_OTC_1;2019;5,00
+fn.th.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-th-no-cont-3M;5;C;thawslump;Moss snowbed;No_Fn_Th_03_MC_1;2019;5,00
+fn.th.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-th-no-cont-4M;6;C;thawslump;Moss snowbed;No_Fn_Th_4_MC;2019;5,00
+fn.th.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-th-no-cont-BM;7;C;thawslump;Moss snowbed;No_Fr_Th_BM_C1;2019;5,00
+fn.th.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-th-no-OTC-3M;5;OTC;thawslump;Moss snowbed;No_Fn_Th_3M_OTC;2019;5,00
+fn.th.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-th-no-OTC-4M;6;OTC;thawslump;Moss snowbed;No_Fn_Th_4M_OTC;2019;5,00
+fn.th.no;Finnmark;69,3;25,3685004;-1,85;687,6;612;6;Fn-th-no-OTC-BM;7;OTC;thawslump;Moss snowbed;No_Fn_Th_BM_OTC_1;2019;5,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-cont-1;1;C;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_1_K;1994;30,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-cont-2;2;C;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_2_Ki;1994;30,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-cont-3;3;C;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_K3;1994;30,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-cont-4;4;C;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_4K;1994;30,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-cont-5;5;C;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_5_K;1994;30,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-OTC-1;1;OTC;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_1_OTC;1994;30,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-OTC-2;2;OTC;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_OTC_2;1994;30,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-OTC-3;3;OTC;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_3_OTC;1994;30,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-OTC-4;4;OTC;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_4_OTC;1994;30,00
+ki.fi;Kilpisjärvi;69,4;20,49;-4,35;1247,7;670;31;Ki-fi-OTC-5;5;OTC;Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated);Moss snowbed;Fi_Ki_5_OTC;1994;30,00
+ko.gl;Kobbefjord;64,13;-51,34375803;-3,35;1146,3;27;17;Ko-gl-cont-2;2;C;dwarf shrub heath;Heath;Gl_C21_1;2008;16,00
+ko.gl;Kobbefjord;64,13;-51,34375803;-3,35;1146,3;27;17;Ko-gl-cont-3;3;C;dwarf shrub heath;Heath;Gl_C31;2008;16,00
+ko.gl;Kobbefjord;64,13;-51,34375803;-3,35;1146,3;27;17;Ko-gl-cont-4;4;C;dwarf shrub heath;Heath;Gl_KOGl_C4_6;2008;16,00
+ko.gl;Kobbefjord;64,13;-51,34375803;-3,35;1146,3;27;17;Ko-gl-cont-5;5;C;dwarf shrub heath;Heath;Gl_KOGl_C5_9;2008;16,00
+ko.gl;Kobbefjord;64,13;-51,34375803;-3,35;1146,3;27;17;Ko-gl-cont-6;6;C;dwarf shrub heath;Heath;Gl_C_61;2008;16,00
+ko.gl;Kobbefjord;64,13;-51,34375803;-3,35;1146,3;27;17;Ko-gl-OTC-2;2;OTC;dwarf shrub heath;Heath;Gl_T21_2;2008;16,00
+ko.gl;Kobbefjord;64,13;-51,34375803;-3,35;1146,3;27;17;Ko-gl-OTC-3;3;OTC;dwarf shrub heath;Heath;Gl_3T1;2008;16,00
+ko.gl;Kobbefjord;64,13;-51,34375803;-3,35;1146,3;27;17;Ko-gl-OTC-4;4;OTC;dwarf shrub heath;Heath;Gl_Gl_T4_5;2008;16,00
+ko.gl;Kobbefjord;64,13;-51,34375803;-3,35;1146,3;27;17;Ko-gl-OTC-5;5;OTC;dwarf shrub heath;Heath;Gl_K05T_8;2008;16,00
+nr.us;Niwotridge;64,13;-105,589602;-2,35;1095,5;3528;18;Nr-us-22-XXX;6;C;alpine_grassland;Alpine grassland;Us_Us_Nr_22_XXX;2007;17,00
+nr.us;Niwotridge;64,13;-105,589602;-2,35;1095,5;3528;18;Nr-us-24-XXX;5;C;alpine_grassland;Alpine grassland;Us_Nr_24_XXX;2007;17,00
+nr.us;Niwotridge;64,13;-105,589602;-2,35;1095,5;3528;18;Nr-us-33-XXX;1;C;alpine_grassland;Alpine grassland;Us_Nr_33_XXY;2007;17,00
+nr.us;Niwotridge;64,13;-105,589602;-2,35;1095,5;3528;18;Nr-us-6-XXX;3;C;alpine_grassland;Alpine grassland;Us_Nr6_XXX;2007;17,00
+nr.us;Niwotridge;64,13;-105,589602;-2,35;1095,5;3528;18;Nr-us-18-XXW;4;OTC;alpine_grassland;Alpine grassland;Us_Nr_18_XXW;2007;17,00
+nr.us;Niwotridge;64,13;-105,589602;-2,35;1095,5;3528;18;Nr-us-21-XXW;7;OTC;alpine_grassland;Alpine grassland;Us_Nr_21_XXW;2007;17,00
+nr.us;Niwotridge;64,13;-105,589602;-2,35;1095,5;3528;18;Nr-us-38-XXW;2;OTC;alpine_grassland;Alpine grassland;Nr_38_XXW;2007;17,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-cont-1-1;1;C;Salix herbacea snowbed;Shrub snowbed;Fr_Pc_cont_11;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-cont-3-1;3;C;Salix herbacea snowbed;Shrub snowbed;Pc-fr-cont-3-1;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-cont-3-2;3;C;Salix herbacea snowbed;Shrub snowbed;Fr_Pc_cont_32;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-cont-4-1;4;C;Salix herbacea snowbed;Shrub snowbed;Fr_Pc_cont_41;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-cont-4-2;4;C;Salix herbacea snowbed;Shrub snowbed;Fr_Pc_cont_42;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-OTC-1-1;1;OTC;Salix herbacea snowbed;Shrub snowbed;Fr_Pc_OTC_11_1;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-OTC-2-1;2;OTC;Salix herbacea snowbed;Shrub snowbed;Fr_Pc_OTC_21_1;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-OTC-3-1;3;OTC;Salix herbacea snowbed;Shrub snowbed;Pc-fr-OTC-3-1;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-OTC-3-2;3;OTC;Salix herbacea snowbed;Shrub snowbed;Fr_Pc_OTC_32;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-OTC-4-1;4;OTC;Salix herbacea snowbed;Shrub snowbed;Fr_Pc_OTC_41;2017;7,00
+pc.fr;PasdelaCasa;43;17;3,05;1209,8;2093;8;Pc-fr-OTC-4-2;4;OTC;Salix herbacea snowbed;Shrub snowbed;Fr_Pc_OTC_42;2017;7,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-cont-B1;1;C;alpine_grassland;Alpine grassland;I_A2_3;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-cont-B2-1;2;C;alpine_grassland;Alpine grassland;I_G8_3;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-cont-B2-2;2;C;alpine_grassland;Alpine grassland;I_E8_3;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-cont-B3;3;C;alpine_grassland;Alpine grassland;It_Pg_B3C2;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-cont-B4-1;4;C;alpine_grassland;Alpine grassland;I_A8_2;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-cont-B4-2;4;C;alpine_grassland;Alpine grassland;I_A4_4;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-cont-B5-1;5;C;alpine_grassland;Alpine grassland;I_E6_3;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-cont-B5-2;5;C;alpine_grassland;Alpine grassland;I_A2_2;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B1;1;OTC;alpine_grassland;Alpine grassland;I_E2_3;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B1-1-1yr;1;OTC;alpine_grassland;Alpine grassland;I_G2_3;2023;1,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B1-2-1yr;1;OTC;alpine_grassland;Alpine grassland;I_C2_2;2023;1,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B2;2;OTC;alpine_grassland;Alpine grassland;I_C4_3;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B2-1-1yr;2;OTC;alpine_grassland;Alpine grassland;I_C4_2;2023;1,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B2-2-1yr;2;OTC;alpine_grassland;Alpine grassland;Pg-it-OTC-B2-2-1yr;2023;1,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B3;3;OTC;alpine_grassland;Alpine grassland;I_G6_6;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B3-1-1yr;3;OTC;alpine_grassland;Alpine grassland;I_E2_6;2023;1,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B3-2-1yr;3;OTC;alpine_grassland;Alpine grassland;I_E6_6;2023;1,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B4;4;OTC;alpine_grassland;Alpine grassland;I_C4_4;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B4-1-1yr;4;OTC;alpine_grassland;Alpine grassland;I_F10_1;2023;1,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B4-2-1yr;4;OTC;alpine_grassland;Alpine grassland;I_E10_5;2023;1,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B5;5;OTC;alpine_grassland;Alpine grassland;I_E4_5;2020;4,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B5-1-1yr;5;OTC;alpine_grassland;Alpine grassland;I_A2_5;2023;1,00
+Pga1;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;5;Pg-it-OTC-B5-2- 1yr;5;OTC;alpine_grassland;Alpine grassland;I_C4_5;2023;1,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-cont-P1;1;C;Tundra;Moss snowbed;I_A10_5;2008;16,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-cont-P2;2;C;Tundra;Moss snowbed;I_E4_3;2008;16,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-cont-P3;3;C;Tundra;Moss snowbed;I_G6_2;2008;16,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-cont-P4;4;C;Tundra;Moss snowbed;I_E6_2;2008;16,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-cont-P5;5;C;Tundra;Moss snowbed;I_A6_3;2008;16,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-P1;1;OTC;Tundra;Moss snowbed;I_C8_2;2008;16,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-P2;2;OTC;Tundra;Moss snowbed;I_F6_1;2008;16,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-P3;3;OTC;Tundra ;Moss snowbed;I_A4_3;2008;16,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-P4;4;OTC;Tundra ;Moss snowbed;I_E10_3;2008;16,00
+Pga2;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-P5;5;OTC;Tundra ;Moss snowbed;I_G4_2;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-cont-S1;1;C;alpine_grassland;Shrub snowbed;I_A4_5;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-It-cont-S2;2;C;alpine_grassland;Shrub snowbed;I_C6_3;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-It-cont-S3;3;C;alpine_grassland;Shrub snowbed;I_E2_2;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-cont-S4;4;C;alpine_grassland;Shrub snowbed;I_C2_3;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-cont-S5;5;C;alpine_grassland;Shrub snowbed;I_G2_2;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-S1;1;OTC;Tundra;Shrub snowbed;I_G6_3;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-S2;2;OTC;alpine_grassland;Shrub snowbed;I_A4_6;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-S3;3;OTC;alpine_grassland;Shrub snowbed;I_C10_3;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-S4;4;OTC;alpine_grassland;Shrub snowbed;I_C6_2;2008;16,00
+Pga3;PassoGavia;46,34;10,4986;-3,85;1572,4;2700;17;Pg-it-OTC-S5;5;OTC;alpine_grassland;Shrub snowbed;I_G4_3;2008;16,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-cont-1-1;1;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_cont_11;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-cont-2-1;2;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_Sp_cont_21;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-cont-2-2;2;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_cont_22;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-cont-3-1;3;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_Sp_control_31;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-cont-3-2;3;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_cont_32;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-cont-4-1;4;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_Sp_cont_41_1;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-OTC-1-1;1;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_OTC_11_1;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-OTC-2-1;2;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_OTC_2_1;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-OTC-2-2;2;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_OTC_22;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-OTC-3-1;3;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_OTC_31;2017;7,00
+ra.sp;Ratera;42,61;0,96021;0,15;1740,2;2560;8;Ra-sp-OTC-4-2;4;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_Ra_Sp_OTC_42;2017;7,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-cont-1-3;1;C;alpine grassland/snowbed;Moss snowbed;No_Sk_No_cont_13;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-cont-2-6;2;C;alpine grassland/snowbed;Moss snowbed;No_Sk_No_cont_86;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-cont-3-6;3;C;alpine grassland/snowbed;Moss snowbed;No_Sk_No_cont_36;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-cont-4-5;4;C;alpine grassland/snowbed;Moss snowbed;No_Sk_No_cont_45;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-cont-6-2;6;C;alpine grassland/snowbed;Moss snowbed;No_Sk_No_cont_62;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-cont-7-1;7;C;alpine grassland/snowbed;Moss snowbed;NO_Sk_con_71;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-OTC-1-4;1;OTC;alpine grassland/snowbed;Moss snowbed;No_Sk_MC_OTC_34;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-OTC-2-1;2;OTC;alpine grassland/snowbed;Moss snowbed;No_Ui_No_OTC_21;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-OTC-3-3;3;OTC;alpine grassland/snowbed;Moss snowbed;No_Sk_No_OTC_33;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-OTC-4-2;4;OTC;alpine grassland/snowbed;Moss snowbed;No_Sk_No_OTC_42;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-OTC-6-4;6;OTC;alpine grassland/snowbed;Moss snowbed;No_Sk_No_OTC_64;2016;8,00
+sk.no;Skjelingahaugen;60,94;6,438079597;1,25;2870,2;1006;9;Sk-no-OTC-7-5;7;OTC;alpine grassland/snowbed;Moss snowbed;No_Sk_No_OTC_75;2016;8,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-12;12;C;dry tundra;Moss snowbed;No_Sval_12_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-23;23;C;dry tundra;Moss snowbed;No_Sval_22_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-28;28;C;dry tundra;Moss snowbed;No_Sval_28_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-29;29;C;dry tundra;Moss snowbed;No_Sval_29_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-38;38;C;dry tundra;Moss snowbed;No_Sval_38_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-40;40;C;dry tundra;Moss snowbed;No_Sval_40_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-46;46;C;dry tundra;Moss snowbed;No_Sval_46_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-49;49;C;dry tundra;Moss snowbed;No_Sval_49_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-6;6;C;dry tundra;Moss snowbed;No_Sval_6_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-cont-8;8;C;dry tundra;Moss snowbed;No_Sval_8_MIMO;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-1;1;OTC;dry tundra;Moss snowbed;No_Sval_1_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-12;12;OTC;dry tundra;Moss snowbed;No_Sval_12_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-18;18;OTC;dry tundra;Moss snowbed;No_Sval_40_18_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-22;22;OTC;dry tundra;Moss snowbed;No_Sval_22_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-23;23;OTC;dry tundra;Moss snowbed;No_Sval_23_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-28;28;OTC;dry tundra;Moss snowbed;No_Sval_28_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-29;29;OTC;dry tundra;Moss snowbed;No_Sval_29_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-35;35;OTC;dry tundra;Moss snowbed;No_Sval_35_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-38;38;OTC;dry tundra;Moss snowbed;No_Sval_38_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-40;40;OTC;dry tundra;Moss snowbed;No_Sval_40_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-46;46;OTC;dry tundra;Moss snowbed;No_Sval_46_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-49;49;OTC;dry tundra;Moss snowbed;No_Sval_No_49_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-6;6;OTC;dry tundra;Moss snowbed;No_Sval_6_OTC;2015;9,00
+sv.no;Svalbard;78,53;16,307;-7,25;304,4;70;10;Sv-no-OTC-8;8;OTC;dry tundra;Moss snowbed;No_Sval_8_OTC;2015;9,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-cont-2-4;2;C;alpine grassland;Wet meadow tundra;No_Ui_No_C_24;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-cont-3-4;3;C;alpine grassland;Wet meadow tundra;No_Ui_No_C_34;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-cont-4-5;4;C;alpine grassland;Wet meadow tundra;No_Ui_No_cont_45;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-cont-5-5;5;C;alpine grassland;Wet meadow tundra;No_Ui_C_551;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-cont-6-2;6;C;alpine grassland;Wet meadow tundra;Ui_Ui_No_C621;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-cont-7-6;7;C;alpine grassland;Wet meadow tundra;No_U_No_cont_76;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-OTC-1-3;1;OTC;alpine grassland;Wet meadow tundra;No_UI_OTC_131;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-OTC-3-2;3;OTC;alpine grassland;Wet meadow tundra;No_Ui_No_OTC_32;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-OTC-4-2;4;OTC;alpine grassland;Wet meadow tundra;No_Ui_No_OTC_42;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-OTC-5-2;5;OTC;alpine grassland;Wet meadow tundra;No_Ui_OTC_521;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-OTC-6-4;6;OTC;alpine grassland;Wet meadow tundra;No_Ui_OTC_641;2016;8,00
+ul.no;Ulvhaugen;68,54;16,48647155;3,25;1536,3;24;9;Ul-no-OTC-7-2;7;OTC;alpine grassland;Wet meadow tundra;No_Ui_No_OTC_72;2016;8,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-cont-1-1;1;C;Salix herbacea snowbed;Shrub snowbed;Ui_Ui_Sp_cont_11_1;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-cont-1-2;1;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_cont_12;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-cont-2-1;2;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_cont_21;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-cont-2-2;2;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_cont_22;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-cont-3-1;3;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_cont_31;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-cont-4-1;4;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_cont_41;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-cont-4-2;4;C;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_cont_42;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-OTC-1-1;1;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_OTC_11;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-OTC-1-2;1;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_OTC_12;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-OTC-2-2;2;OTC;Salix herbacea snowbed;Shrub snowbed;Ui_Ui_Sp_OTC_22;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-OTC-3-1;3;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_OTC_C31;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-OTC-3-2;3;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_Ui_Sp_OTC_32;2019;5,00
+ul.sp;Ulldeter;42;23;0,65;1289,9;2400;6;Ul-sp-OTC-4-1;4;OTC;Salix herbacea snowbed;Shrub snowbed;Sp_UI_Sp_OTC_41;2019;5,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-cont-1;1;C;high alpine grassland;Alpine grassland;Zwi_Val_B_C11_C1;1994;30,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-cont-2;2;C;high alpine grassland;Alpine grassland;Zwi_Val_B_C24_C2;1994;30,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-cont-4;3;C;high alpine grassland;Alpine grassland;Zwi_Val_B_C4_1C4;1994;30,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-cont-6;4;C;high alpine grassland;Alpine grassland;Zwi_Val_B_C6;1994;30,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-cont-8;5;C;high alpine grassland;Alpine grassland;Zwi_Val_B_C_81C8;1994;30,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-OTC-1;6;OTC;high alpine grassland;Alpine grassland;Zwi_Val_B_011_OTC_1;1994;30,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-OTC-2;7;OTC;high alpine grassland;Alpine grassland;Zwi_Val_B_02l_OTC_2;1994;30,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-OTC-4;8;OTC;high alpine grassland;Alpine grassland;Zwi_Val_B_041_OTC_4;1994;30,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-OTC-6;9;OTC;high alpine grassland;Alpine grassland;Zwi_Val_B0616_OTC;1994;30,00
+vb.ch;Valbercla;46,48;9,584303;-2,45;2039,2;2500;31;Vb-ch-OTC-8;10;OTC;high alpine grassland;Alpine grassland;Zwi_Val_B_D_81_OTC_8;1994;30,00
+wh.ch;Davos;46,76;9,8578;-1,85;1657,3;2296;11;Wh-ch-cont-1-2;1;C;alpine grassland and heath;Heath;Swi_Wahi_12_AC;2014;10,00
+wh.ch;Davos;46,76;9,8578;-1,85;1657,3;2296;11;Wh-ch-cont-2-4;2;C;alpine grassland and heath;Heath;Swi_Swi_Wahi_24_AC;2014;10,00
+wh.ch;Davos;46,76;9,8578;-1,85;1657,3;2296;11;Wh-ch-cont-4-4;3;C;alpine grassland and heath;Heath;Swi_Wahi_4AC;2014;10,00
+wh.ch;Davos;46,76;9,8578;-1,85;1657,3;2296;11;Wh-ch-cont-7-2;4;C;alpine grassland and heath;Heath;Swi_Swi_Wahi_72_AC;2014;10,00
+wh.ch;Davos;46,76;9,8578;-1,85;1657,3;2296;11;Wh-ch-OTC-1-1;5;OTC;alpine grassland and heath;Heath;Swi_Wahi_11_WC;2014;10,00
+wh.ch;Davos;46,76;9,8578;-1,85;1657,3;2296;11;Wh-ch-OTC-2-2;6;OTC;alpine grassland and heath;Heath;Swi_Wahi_22_WC;2014;10,00
+wh.ch;Davos;46,76;9,8578;-1,85;1657,3;2296;11;Wh-ch-OTC-4-2;7;OTC;alpine grassland and heath;Heath;Swi_Wahi_42_WC;2014;10,00
+wh.ch;Davos;46,76;9,8578;-1,85;1657,3;2296;11;Wh-ch-OTC-5-4;8;OTC;alpine grassland and heath;Heath;Swi_Wahi_54_WC;2014;10,00
+wh.ch;Davos;46,76;9,8578;-1,85;1657,3;2296;11;Wh-ch-OTC-7-4;9;OTC;alpine grassland and heath;Heath;Swi_Wahi_14_WC;2014;10,00
+wl.ch;Davos;46,76;9,8578;-0,25;1627,6;2033;11;Wl-ch-cont-1-3;15;C;subalpine heath (Vaccinium ssp.);Heath;Swi_Walo_13_AC;2014;10,00
+wl.ch;Davos;46,76;9,8578;-0,25;1627,6;2033;11;Wl-ch-cont-3-1;16;C;subalpine heath (Vaccinium ssp.);Heath;Sw_Walo_31_AC;2014;10,00
+wl.ch;Davos;46,76;9,8578;-0,25;1627,6;2033;11;Wl-ch-cont-4-4;17;C;subalpine heath (Vaccinium ssp.);Heath;Sw_Walo_44_AC;2014;10,00
+wl.ch;Davos;46,76;9,8578;-0,25;1627,6;2033;11;Wl-ch-cont-7-2;18;C;subalpine heath (Vaccinium ssp.);Heath;Sw_Walo_72_AC;2014;10,00
+wl.ch;Davos;46,76;9,8578;-0,25;1627,6;2033;11;Wl-ch-1-2 WC;10;OTC;subalpine heath (Vaccinium ssp.);Heath;Sw_Sw_Walo_12;2014;10,00
+wl.ch;Davos;46,76;9,8578;-0,25;1627,6;2033;11;Wl-ch-3-2-WC;11;OTC;subalpine heath (Vaccinium ssp.);Heath;Sw_Walo_10_32_WC;2014;10,00
+wl.ch;Davos;46,76;9,8578;-0,25;1627,6;2033;11;Wl-ch-4-3-WC;12;OTC;subalpine heath (Vaccinium ssp.);Heath;Swi_Swi_Walo_43_WC;2014;10,00
+wl.ch;Davos;46,76;9,8578;-0,25;1627,6;2033;11;Wl-ch-6-3-WC;13;OTC;subalpine heath (Vaccinium ssp.);Heath;Swi_Walo_63_WC;2014;10,00
+wl.ch;Davos;46,76;9,8578;-0,25;1627,6;2033;11;Wl-ch-7-4-WC;14;OTC;subalpine heath (Vaccinium ssp.);Heath;Swi_Swi_Walo_74_WC;2014;10,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T22AFO;2;C;Tundra wetland;Wet meadow tundra;Ut_Low_22_AFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T23AFO;3;C;Tundra wetland;Wet meadow tundra;Ut_Low_23_AFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T24AFO;4;C;Tundra wetland;Wet meadow tundra;Ut_Low_T24_AFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T25AFO;5;C;Tundra wetland;Wet meadow tundra;Ut_10w_25_AFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T26AFO;6;C;Tundra wetland;Wet meadow tundra;Ut_10w_26_AFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T27AFO;7;C;Tundra wetland;Wet meadow tundra;Ut_Low_27_AFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T22WFO;2;OTC;Tundra wetland;Wet meadow tundra;Ut_Low_T22_WFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T23WFO;3;OTC;Tundra wetland;Wet meadow tundra;Ut_23_AFO_Low;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T24WFO;4;OTC;Tundra wetland;Wet meadow tundra;Ut_Low_T_24_WFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T25WFO;5;OTC;Tundra wetland;Wet meadow tundra;Ut_Low_25_WFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T26WFO;6;OTC;Tundra wetland;Wet meadow tundra;Ut_Low_26_WFO;2022;2,00
+yk.low;Yukon;64,3;-165,43;-1,35;743,5;70;3;Yk-lo-T27WFO;7;OTC;Tundra wetland;Wet meadow tundra;Ut_Low_27_WFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T42AFO;2;C;Tundra heath;Heath;Ut_Ut_UPT_42_AFO_1;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T43AFO;3;C;Tundra heath;Heath;Ut_Ut_UPT_42_WFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T44AFO;4;C;Tundra heath;Heath;Yk-up-T44AFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T45AFO;5;C;Tundra heath;Heath;Ut_Ut_UPT_45_AFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T46AFO;6;C;Tundra heath;Heath;Ut_Ut_UPT_46_AFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T47AFO;7;C;Tundra heath;Heath;Ut_UPT_47_AFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T42WFO;2;OTC;Tundra heath;Heath;Ut_Ut_UPT_42_AFO_2;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T43WFO;3;OTC;Tundra heath;Heath;Ut_UT_UPT_43_WFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T44WFO;4;OTC;Tundra heath;Heath;Yk-up-T44WFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T45WFO;5;OTC;Tundra heath;Heath;Ut_UPT_45_WFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T46WFO;6;OTC;Tundra heath;Heath;Ut_Ut_UPT_46_WFO;2022;2,00
+yk.up;Yukon;64,3;-165,43;-1,35;742,4;70;3;Yk-up-T47WFO;7;OTC;Tundra heath;Heath;Ut_UPT_47_WFO;2022;2,00
