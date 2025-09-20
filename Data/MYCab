@@ -1,0 +1,215 @@
+"arbuscular_mycorrhizal" "ectomycorrhizal" "ericoid_mycorrhizal" "Site" "Location" "Lattitude" "Longitude" "MAT" "MAP" "elevation" "participation" "Label" "Block" "Treatment" "VegetationOG" "Vegetationtype" "Startyear" "Time"
+"Ad_AdAd_cont_11" 0 1 0 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-cont-1-1" "1" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Ad_AdAd_cont_22" 0 1 0 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-cont-2-2" "2" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Ad_AdAd_cont_31" 0 1 0 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-cont-3-1" "3" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Ad_AdAd_cont_32_1" 0 1 0 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-cont-3-2" "3" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Ad_AdAd_OTC_11" 0.00207900207900208 0.997920997920998 0 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-OTC-1-1" "1" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Ad_AdAd_OTC_12" 0 1 0 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-OTC-1-2" "1" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Ad_AdAd_OTC_21" 0 0.895910780669145 0.104089219330855 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-OTC-2-1" "2" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Ad_AdAd_OTC_32" 0 0.995594713656388 0.00440528634361234 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-OTC-3-2" "3" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Ad_AdAd_OTC_41" 0 0.98443579766537 0.0155642023346304 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-OTC-4-1" "4" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Ad_AdAd_OTC_42" 0 0.988372093023256 0.0116279069767442 "ad.ad" "Andorra" 42.62 14.8186 0.55 1560.4 "2535" "8" "Ad-ad-OTC-4-2" "4" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Fi_Fi_No_C2_A1_2" 0.0217391304347826 0.978260869565217 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-cont-2A" "2" "C" "Alpine Dryas heath" "Heath" "2000" 24
+"Fi_Ki_1_K" 0.1 0.4 0.5 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-cont-1" "1" "C" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fi_Ki_1_OTC" 0 0.636363636363636 0.363636363636364 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-OTC-1" "1" "OTC" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fi_Ki_2_Ki" 0 0.3 0.7 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-cont-2" "2" "C" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fi_Ki_3_OTC" 0 0.970873786407767 0.029126213592233 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-OTC-3" "3" "OTC" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fi_Ki_4_OTC" 0 0.333333333333333 0.666666666666667 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-OTC-4" "4" "OTC" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fi_Ki_4K" 0 0.666666666666667 0.333333333333333 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-cont-4" "4" "C" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fi_Ki_5_K" 0 0.914529914529915 0.0854700854700855 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-cont-5" "5" "C" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fi_Ki_5_OTC" 0 1 0 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-OTC-5" "5" "OTC" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fi_Ki_K3" 0 0.266666666666667 0.733333333333333 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-cont-3" "3" "C" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fi_Ki_OTC_2" 0.0149253731343284 0.955223880597015 0.0298507462686567 "ki.fi" "Kilpisjärvi" 69.4 20.49 -4.35 1247.7 "670" "31" "Ki-fi-OTC-2" "2" "OTC" "Subarctic heath (Vaccinium myrtillus + V. vitis-idaea dominated)" "Moss snowbed" "1994" 30
+"Fr_Pc_cont_11" 1 0 0 "pc.fr" "PasdelaCasa" 43 17 3.05 1209.8 "2093" "8" "Pc-fr-cont-1-1" "1" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Fr_Pc_cont_41" 0.0666666666666667 0.866666666666667 0.0666666666666667 "pc.fr" "PasdelaCasa" 43 17 3.05 1209.8 "2093" "8" "Pc-fr-cont-4-1" "4" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Fr_Pc_cont_42" 0 0.72027972027972 0.27972027972028 "pc.fr" "PasdelaCasa" 43 17 3.05 1209.8 "2093" "8" "Pc-fr-cont-4-2" "4" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Fr_Pc_OTC_21_1" 0.916666666666667 0.0833333333333333 0 "pc.fr" "PasdelaCasa" 43 17 3.05 1209.8 "2093" "8" "Pc-fr-OTC-2-1" "2" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Fr_Pc_OTC_32" 0.0196078431372549 0.967320261437909 0.0130718954248366 "pc.fr" "PasdelaCasa" 43 17 3.05 1209.8 "2093" "8" "Pc-fr-OTC-3-2" "3" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Fr_Pc_OTC_41" 0 0.997732426303855 0.00226757369614512 "pc.fr" "PasdelaCasa" 43 17 3.05 1209.8 "2093" "8" "Pc-fr-OTC-4-1" "4" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Fr_Pc_OTC_42" 0.0707070707070707 0.929292929292929 0 "pc.fr" "PasdelaCasa" 43 17 3.05 1209.8 "2093" "8" "Pc-fr-OTC-4-2" "4" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Gl_Gl_T4_5" 0 0 1 "ko.gl" "Kobbefjord" 64.13 -51.34375803 -3.35 1146.3 "27" "17" "Ko-gl-OTC-4" "4" "OTC" "dwarf shrub heath" "Heath" "2008" 16
+"Gl_K05T_8" 0 0 1 "ko.gl" "Kobbefjord" 64.13 -51.34375803 -3.35 1146.3 "27" "17" "Ko-gl-OTC-5" "5" "OTC" "dwarf shrub heath" "Heath" "2008" 16
+"Gl_KOGl_C4_6" 0 0.25 0.75 "ko.gl" "Kobbefjord" 64.13 -51.34375803 -3.35 1146.3 "27" "17" "Ko-gl-cont-4" "4" "C" "dwarf shrub heath" "Heath" "2008" 16
+"Gl_KOGl_C5_9" 0 0.993166287015945 0.00683371298405467 "ko.gl" "Kobbefjord" 64.13 -51.34375803 -3.35 1146.3 "27" "17" "Ko-gl-cont-5" "5" "C" "dwarf shrub heath" "Heath" "2008" 16
+"Gl_T21_2" 0 0 1 "ko.gl" "Kobbefjord" 64.13 -51.34375803 -3.35 1146.3 "27" "17" "Ko-gl-OTC-2" "2" "OTC" "dwarf shrub heath" "Heath" "2008" 16
+"I_A10_5" 0 0.555555555555556 0.444444444444444 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-cont-P1" "1" "C" "Tundra" "Moss snowbed" "2008" 16
+"I_A2_2" 0.642857142857143 0 0.357142857142857 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-cont-B5-2" "5" "C" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_A2_3" 0.984375 0.015625 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-cont-B1" "1" "C" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_A2_5" 0.571428571428571 0.19047619047619 0.238095238095238 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B5-1-1yr" "5" "OTC" "alpine_grassland" "Alpine grassland" "2023" 1
+"I_A4_3" 0 0.941176470588235 0.0588235294117647 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-P3" "3" "OTC" "Tundra " "Moss snowbed" "2008" 16
+"I_A4_4" 0.00497512437810945 0.995024875621891 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-cont-B4-2" "4" "C" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_A4_5" 0 1 0 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-cont-S1" "1" "C" "alpine_grassland" "Shrub snowbed" "2008" 16
+"I_A4_6" 0 1 0 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-S2" "2" "OTC" "alpine_grassland" "Shrub snowbed" "2008" 16
+"I_A6_3" 0 0.390909090909091 0.609090909090909 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-cont-P5" "5" "C" "Tundra" "Moss snowbed" "2008" 16
+"I_A8_2" 0.0722222222222222 0.927777777777778 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-cont-B4-1" "4" "C" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_C10_3" 0 0.875 0.125 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-S3" "3" "OTC" "alpine_grassland" "Shrub snowbed" "2008" 16
+"I_C2_2" 0.978494623655914 0.010752688172043 0.010752688172043 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B1-2-1yr" "1" "OTC" "alpine_grassland" "Alpine grassland" "2023" 1
+"I_C2_3" 0.0588235294117647 0.764705882352941 0.176470588235294 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-cont-S4" "4" "C" "alpine_grassland" "Shrub snowbed" "2008" 16
+"I_C4_2" 1 0 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B2-1-1yr" "2" "OTC" "alpine_grassland" "Alpine grassland" "2023" 1
+"I_C4_3" 0.672727272727273 0.254545454545455 0.0727272727272727 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B2" "2" "OTC" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_C4_4" 0.148148148148148 0.703703703703704 0.148148148148148 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B4" "4" "OTC" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_C4_5" 0.111111111111111 0.333333333333333 0.555555555555556 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B5-2- 1yr" "5" "OTC" "alpine_grassland" "Alpine grassland" "2023" 1
+"I_C6_2" 0 1 0 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-S4" "4" "OTC" "alpine_grassland" "Shrub snowbed" "2008" 16
+"I_C6_3" 0.0526315789473684 0.921052631578947 0.0263157894736842 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-It-cont-S2" "2" "C" "alpine_grassland" "Shrub snowbed" "2008" 16
+"I_C8_2" 0.0731707317073171 0.682926829268293 0.24390243902439 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-P1" "1" "OTC" "Tundra" "Moss snowbed" "2008" 16
+"I_E10_3" 0 0.123076923076923 0.876923076923077 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-P4" "4" "OTC" "Tundra " "Moss snowbed" "2008" 16
+"I_E10_5" 0 0.8 0.2 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B4-2-1yr" "4" "OTC" "alpine_grassland" "Alpine grassland" "2023" 1
+"I_E2_2" 0.303030303030303 0.666666666666667 0.0303030303030303 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-It-cont-S3" "3" "C" "alpine_grassland" "Shrub snowbed" "2008" 16
+"I_E2_3" 0.840909090909091 0.136363636363636 0.0227272727272727 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B1" "1" "OTC" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_E2_6" 1 0 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B3-1-1yr" "3" "OTC" "alpine_grassland" "Alpine grassland" "2023" 1
+"I_E4_3" 0 0.602739726027397 0.397260273972603 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-cont-P2" "2" "C" "Tundra" "Moss snowbed" "2008" 16
+"I_E4_5" 1 0 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B5" "5" "OTC" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_E6_2" 0 0.680701754385965 0.319298245614035 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-cont-P4" "4" "C" "Tundra" "Moss snowbed" "2008" 16
+"I_E6_3" 0.428571428571429 0.0476190476190476 0.523809523809524 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-cont-B5-1" "5" "C" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_E6_6" 0.552631578947368 0.447368421052632 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B3-2-1yr" "3" "OTC" "alpine_grassland" "Alpine grassland" "2023" 1
+"I_F10_1" 0 1 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B4-1-1yr" "4" "OTC" "alpine_grassland" "Alpine grassland" "2023" 1
+"I_F6_1" 0.25 0.75 0 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-P2" "2" "OTC" "Tundra" "Moss snowbed" "2008" 16
+"I_G2_2" 0 1 0 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-cont-S5" "5" "C" "alpine_grassland" "Shrub snowbed" "2008" 16
+"I_G2_3" 0.883333333333333 0.05 0.0666666666666667 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B1-1-1yr" "1" "OTC" "alpine_grassland" "Alpine grassland" "2023" 1
+"I_G4_2" 0.00122249388753056 0.996332518337408 0.00244498777506112 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-P5" "5" "OTC" "Tundra " "Moss snowbed" "2008" 16
+"I_G4_3" 0.00225733634311512 0.99548532731377 0.00225733634311512 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-S5" "5" "OTC" "alpine_grassland" "Shrub snowbed" "2008" 16
+"I_G6_2" 0 0.0807453416149068 0.919254658385093 "Pga2" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-cont-P3" "3" "C" "Tundra" "Moss snowbed" "2008" 16
+"I_G6_3" 0 0.782608695652174 0.217391304347826 "Pga3" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "17" "Pg-it-OTC-S1" "1" "OTC" "Tundra" "Shrub snowbed" "2008" 16
+"I_G6_6" 0.97979797979798 0.0202020202020202 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-OTC-B3" "3" "OTC" "alpine_grassland" "Alpine grassland" "2020" 4
+"I_G8_3" 0.231441048034934 0.768558951965066 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-cont-B2-1" "2" "C" "alpine_grassland" "Alpine grassland" "2020" 4
+"It_Pg_B3C2" 1 0 0 "Pga1" "PassoGavia" 46.34 10.4986 -3.85 1572.4 "2700" "5" "Pg-it-cont-B3" "3" "C" "alpine_grassland" "Alpine grassland" "2020" 4
+"No_C_CSO_Finse_1" 0 1 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-cont-5D" "8" "C" "Alpine Dryas heath" "Heath" "2000" 24
+"No_C6A_control_Finse" 0 1 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-cont-6A" "9" "C" "Alpine Dryas heath" "Heath" "2000" 24
+"No_FC_control_C1A" 0 1 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-cont-1A" "4" "C" "Alpine Dryas heath" "Heath" "2000" 24
+"No_Fi_No_OTC_02D" 0 1 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-OTC-2D" "7" "OTC" "Alpine Dryas heath" "Heath" "2000" 24
+"No_Fi_No_OTC_03A" 0.0466666666666667 0.953333333333333 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-OTC-3A" "3" "OTC" "Alpine Dryas heath" "Heath" "2000" 24
+"No_Finse_OTC_04_B1" 0.01 0.99 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-OTC-4B" "5" "OTC" "Alpine Dryas heath" "Heath" "2000" 24
+"No_Finse_OTC_05B" 0 1 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-OTC-5B" "6" "OTC" "Alpine Dryas heath" "Heath" "2000" 24
+"No_Fn_Pa_3P_OTC_1" 0 0 1 "fn.pa.no" "Finnmark" 69.3 25.3685004 -1.85 687.6 "612" "6" "Fn-pa-no-OTC-3P" "3" "OTC" "permafrost palsa" "Shrub snowbed" "2019" 5
+"No_Fn_Pa_4_Pc" 0 1 0 "fn.pa.no" "Finnmark" 69.3 25.3685004 -1.85 687.6 "612" "6" "Fn-pa-no-cont-4P" "4" "C" "permafrost palsa" "Shrub snowbed" "2019" 5
+"No_Fn_Pa_BP_C1" 0 1 0 "fn.pa.no" "Finnmark" 69.3 25.3685004 -1.85 687.6 "612" "6" "Fn-pa-no-cont-BP" "2" "C" "permafrost palsa" "Shrub snowbed" "2019" 5
+"No_Fn_Th_03_MC_1" 0.0833333333333333 0.1875 0.729166666666667 "fn.th.no" "Finnmark" 69.3 25.3685004 -1.85 687.6 "612" "6" "Fn-th-no-cont-3M" "5" "C" "thawslump" "Moss snowbed" "2019" 5
+"No_Fn_Th_4_MC" 0 1 0 "fn.th.no" "Finnmark" 69.3 25.3685004 -1.85 687.6 "612" "6" "Fn-th-no-cont-4M" "6" "C" "thawslump" "Moss snowbed" "2019" 5
+"No_Fn_Th_4M_OTC" 0 0.571428571428571 0.428571428571429 "fn.th.no" "Finnmark" 69.3 25.3685004 -1.85 687.6 "612" "6" "Fn-th-no-OTC-4M" "6" "OTC" "thawslump" "Moss snowbed" "2019" 5
+"No_Fr_No_C3D1" 0 1 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-cont-3D" "1" "C" "Alpine Dryas heath" "Heath" "2000" 24
+"No_Fr_Pa_4P_OTC" 0 0 1 "fn.pa.no" "Finnmark" 69.3 25.3685004 -1.85 687.6 "612" "6" "Fn-pa-no-OTC-4P" "4" "OTC" "permafrost palsa" "Shrub snowbed" "2019" 5
+"No_Fr_Pa_BP_OTC_1" 0.166666666666667 0.166666666666667 0.666666666666667 "fn.pa.no" "Finnmark" 69.3 25.3685004 -1.85 687.6 "612" "6" "Fn-pa-no-OTC-BP" "2" "OTC" "permafrost palsa" "Shrub snowbed" "2019" 5
+"No_Fr_Th_BM_C1" 0.111111111111111 0.888888888888889 0 "fn.th.no" "Finnmark" 69.3 25.3685004 -1.85 687.6 "612" "6" "Fn-th-no-cont-BM" "7" "C" "thawslump" "Moss snowbed" "2019" 5
+"No_OTC_010_C_Finse_1" 0 1 0 "fi.no" "Finse" 60.61 7.5046 -0.35 1655.2 "1500" "25" "Fi-no-OTC-10C" "10" "OTC" "Alpine Dryas heath" "Heath" "2000" 24
+"NO_Sk_con_71" 0 1 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-cont-7-1" "7" "C" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_MC_OTC_34" 0 1 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-OTC-1-4" "1" "OTC" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_No_cont_13" 0 1 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-cont-1-3" "1" "C" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_No_cont_36" 0.00122399020807834 0.998776009791922 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-cont-3-6" "3" "C" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_No_cont_45" 0.00353356890459364 0.996466431095406 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-cont-4-5" "4" "C" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_No_cont_62" 0.00513698630136986 0.99486301369863 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-cont-6-2" "6" "C" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_No_cont_86" 0.00140845070422535 0.998591549295775 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-cont-2-6" "2" "C" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_No_OTC_33" 0 1 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-OTC-3-3" "3" "OTC" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_No_OTC_42" 0 1 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-OTC-4-2" "4" "OTC" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_No_OTC_64" 0 1 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-OTC-6-4" "6" "OTC" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sk_No_OTC_75" 0.266666666666667 0.733333333333333 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-OTC-7-5" "7" "OTC" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Sval_22_OTC" 0.0136986301369863 0.986301369863014 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-OTC-22" "22" "OTC" "dry tundra" "Moss snowbed" "2015" 9
+"No_Sval_29_OTC" 0 1 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-OTC-29" "29" "OTC" "dry tundra" "Moss snowbed" "2015" 9
+"No_Sval_35_OTC" 0 1 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-OTC-35" "35" "OTC" "dry tundra" "Moss snowbed" "2015" 9
+"No_Sval_38_MIMO" 0 1 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-cont-38" "38" "C" "dry tundra" "Moss snowbed" "2015" 9
+"No_Sval_40_18_OTC" 0 1 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-OTC-18" "18" "OTC" "dry tundra" "Moss snowbed" "2015" 9
+"No_Sval_40_OTC" 0 1 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-OTC-40" "40" "OTC" "dry tundra" "Moss snowbed" "2015" 9
+"No_Sval_46_MIMO" 0 1 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-cont-46" "46" "C" "dry tundra" "Moss snowbed" "2015" 9
+"No_Sval_46_OTC" 0 1 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-OTC-46" "46" "OTC" "dry tundra" "Moss snowbed" "2015" 9
+"No_Sval_6_MIMO" 0 1 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-cont-6" "6" "C" "dry tundra" "Moss snowbed" "2015" 9
+"No_Sval_6_OTC" 0.00154798761609907 0.998452012383901 0 "sv.no" "Svalbard" 78.53 16.307 -7.25 304.4 "70" "10" "Sv-no-OTC-6" "6" "OTC" "dry tundra" "Moss snowbed" "2015" 9
+"No_U_No_cont_76" 0.00152905198776758 0.998470948012232 0 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-cont-7-6" "7" "C" "alpine grassland" "Wet meadow tundra" "2016" 8
+"No_Ui_No_C_24" 0 1 0 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-cont-2-4" "2" "C" "alpine grassland" "Wet meadow tundra" "2016" 8
+"No_Ui_No_C_34" 0.0570175438596491 0.912280701754386 0.0307017543859649 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-cont-3-4" "3" "C" "alpine grassland" "Wet meadow tundra" "2016" 8
+"No_Ui_No_cont_45" 0.137931034482759 0.862068965517241 0 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-cont-4-5" "4" "C" "alpine grassland" "Wet meadow tundra" "2016" 8
+"No_Ui_No_OTC_21" 0.0015552099533437 0.998444790046656 0 "sk.no" "Skjelingahaugen" 60.94 6.438079597 1.25 2870.2 "1006" "9" "Sk-no-OTC-2-1" "2" "OTC" "alpine grassland/snowbed" "Moss snowbed" "2016" 8
+"No_Ui_No_OTC_32" 0.00503355704697987 0.991610738255034 0.00335570469798658 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-OTC-3-2" "3" "OTC" "alpine grassland" "Wet meadow tundra" "2016" 8
+"No_Ui_No_OTC_42" 0.1 0.9 0 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-OTC-4-2" "4" "OTC" "alpine grassland" "Wet meadow tundra" "2016" 8
+"No_Ui_No_OTC_72" 0 1 0 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-OTC-7-2" "7" "OTC" "alpine grassland" "Wet meadow tundra" "2016" 8
+"No_UI_OTC_131" 0.0495356037151703 0.95046439628483 0 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-OTC-1-3" "1" "OTC" "alpine grassland" "Wet meadow tundra" "2016" 8
+"No_Ui_OTC_521" 0 1 0 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-OTC-5-2" "5" "OTC" "alpine grassland" "Wet meadow tundra" "2016" 8
+"No_Ui_OTC_641" 0 1 0 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-OTC-6-4" "6" "OTC" "alpine grassland" "Wet meadow tundra" "2016" 8
+"Nr_38_XXW" 0 1 0 "nr.us" "Niwotridge" 64.13 -105.589602 -2.35 1095.5 "3528" "18" "Nr-us-38-XXW" "2" "OTC" "alpine_grassland" "Alpine grassland" "2007" 17
+"Sp_Ra_cont_11" 0.133333333333333 0.866666666666667 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-cont-1-1" "1" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ra_cont_22" 0.25 0.75 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-cont-2-2" "2" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ra_cont_32" 0.0158730158730159 0.984126984126984 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-cont-3-2" "3" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ra_OTC_11_1" 0 1 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-OTC-1-1" "1" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ra_OTC_2_1" 0 1 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-OTC-2-1" "2" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ra_OTC_22" 0.106666666666667 0.893333333333333 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-OTC-2-2" "2" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ra_Sp_cont_21" 0.00793650793650794 0.992063492063492 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-cont-2-1" "2" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ra_Sp_cont_41_1" 0 1 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-cont-4-1" "4" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ra_Sp_control_31" 0 1 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-cont-3-1" "3" "C" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ra_Sp_OTC_42" 0.863636363636364 0.136363636363636 0 "ra.sp" "Ratera" 42.61 0.96021 0.15 1740.2 "2560" "8" "Ra-sp-OTC-4-2" "4" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2017" 7
+"Sp_Ui_Sp_cont_12" 0 1 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-cont-1-2" "1" "C" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sp_Ui_Sp_cont_22" 0.0555555555555556 0.944444444444444 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-cont-2-2" "2" "C" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sp_Ui_Sp_cont_31" 0 1 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-cont-3-1" "3" "C" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sp_Ui_Sp_cont_41" 0.0121212121212121 0.987878787878788 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-cont-4-1" "4" "C" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sp_Ui_Sp_cont_42" 0.4 0.6 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-cont-4-2" "4" "C" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sp_Ui_Sp_OTC_11" 1 0 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-OTC-1-1" "1" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sp_Ui_Sp_OTC_12" 0.0909090909090909 0.454545454545455 0.454545454545455 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-OTC-1-2" "1" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sp_Ui_Sp_OTC_32" 0 1 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-OTC-3-2" "3" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sp_UI_Sp_OTC_41" 1 0 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-OTC-4-1" "4" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sp_Ui_Sp_OTC_C31" 0.00241545893719807 0.992753623188406 0.00483091787439614 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-OTC-3-1" "3" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Sw_CLA_15A_OTC" 0.75 0.25 0 "20.ch" "Davos" 46.76 9.8578 0.25 1457.2 "2084" "2" "20-ch-OTC-15-1" "15" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_CLA_20B_OTC" 0.230769230769231 0.769230769230769 0 "20.ch" "Davos" 46.76 9.8578 0.25 1457.2 "2084" "2" "20-ch-OTC-20-2" "20" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_CLA_P_5A_OTC" 0 1 0 "20.ch" "Davos" 46.76 9.8578 0.25 1457.2 "2084" "2" "20-ch-OTC-20-1" "20" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_JAT_14_OTC_A" 0.03125 0.96875 0 "25.ch" "Davos" 46.76 9.8578 -2.45 1660 "2320" "2" "25-ch-OTC-14-1" "14" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_JAT_14_OTC_B" 0.003584229390681 0.996415770609319 0 "25.ch" "Davos" 46.76 9.8578 -2.45 1660 "2320" "2" "25-ch-OTC-14-2" "14" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_JAT_14A_AMBI" 0.00961538461538462 0.990384615384615 0 "25.ch" "Davos" 46.76 9.8578 -2.45 1660 "2320" "2" "25-ch-cont-14-1" "14" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_JAT_14B_AMBI" 0.00171232876712329 0.998287671232877 0 "25.ch" "Davos" 46.76 9.8578 -2.45 1660 "2320" "2" "25-ch-cont-14-2" "14" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_JAT_19_OTC_A" 0 1 0 "25.ch" "Davos" 46.76 9.8578 -2.45 1660 "2320" "2" "25-ch-OTC-19-1" "19" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_JAT_19A_AMBI" 0 1 0 "25.ch" "Davos" 46.76 9.8578 -2.45 1660 "2320" "2" "25-ch-cont-19-1" "19" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_JAT_19B_AMBI" 0.05 0.95 0 "25.ch" "Davos" 46.76 9.8578 -2.45 1660 "2320" "2" "25-ch-cont-19-2" "19" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_JAT_6_OTC_B" 1 0 0 "25.ch" "Davos" 46.76 9.8578 -2.45 1660 "2320" "2" "25-ch-OTC-6-2" "6" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_JAT_6B_AMBI" 1 0 0 "25.ch" "Davos" 46.76 9.8578 -2.45 1660 "2320" "2" "25-ch-cont-6-2" "6" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Sw_Sw_Walo_12" 1 0 0 "wl.ch" "Davos" 46.76 9.8578 -0.25 1627.6 "2033" "11" "Wl-ch-1-2 WC" "10" "OTC" "subalpine heath (Vaccinium ssp.)" "Heath" "2014" 10
+"Sw_Walo_10_32_WC" 0 0 1 "wl.ch" "Davos" 46.76 9.8578 -0.25 1627.6 "2033" "11" "Wl-ch-3-2-WC" "11" "OTC" "subalpine heath (Vaccinium ssp.)" "Heath" "2014" 10
+"Sw_Walo_31_AC" 1 0 0 "wl.ch" "Davos" 46.76 9.8578 -0.25 1627.6 "2033" "11" "Wl-ch-cont-3-1" "16" "C" "subalpine heath (Vaccinium ssp.)" "Heath" "2014" 10
+"Sw_Walo_44_AC" 1 0 0 "wl.ch" "Davos" 46.76 9.8578 -0.25 1627.6 "2033" "11" "Wl-ch-cont-4-4" "17" "C" "subalpine heath (Vaccinium ssp.)" "Heath" "2014" 10
+"Sw_Walo_72_AC" 0 0 1 "wl.ch" "Davos" 46.76 9.8578 -0.25 1627.6 "2033" "11" "Wl-ch-cont-7-2" "18" "C" "subalpine heath (Vaccinium ssp.)" "Heath" "2014" 10
+"Swi_Br_12_B_cont" 1 0 0 "15.ch" "Davos" 46.76 9.8578 3.35 1367.6 "1534" "2" "15-ch-cont-12-2" "12" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_Br_12_B_OTC" 1 0 0 "15.ch" "Davos" 46.76 9.8578 3.35 1367.6 "1534" "2" "15-ch-OTC-12-2" "12" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_Br_12A_OTC" 1 0 0 "15.ch" "Davos" 46.76 9.8578 3.35 1367.6 "1534" "2" "15-ch-OTC-12-1" "12" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_Br_21_A_cont" 1 0 0 "15.ch" "Davos" 46.76 9.8578 3.35 1367.6 "1534" "2" "15-ch-cont-21-1" "21" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_Br_21_OTC_B" 1 0 0 "15.ch" "Davos" 46.76 9.8578 3.35 1367.6 "1534" "2" "15-ch-OTC-21-2" "21" "OTC" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_Br_21B_cont" 1 0 0 "15.ch" "Davos" 46.76 9.8578 3.35 1367.6 "1534" "2" "15-ch-cont-21-2" "21" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_Br_7A_cont" 1 0 0 "15.ch" "Davos" 46.76 9.8578 3.35 1367.6 "1534" "2" "15-ch-cont-7-1" "7" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_CLA_20_A_cont" 1 0 0 "20.ch" "Davos" 46.76 9.8578 0.25 1457.2 "2084" "2" "20-ch-cont-20-1" "20" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_CLA_ALP_20B_cont" 0 1 0 "20.ch" "Davos" 46.76 9.8578 0.25 1457.2 "2084" "2" "20-ch-cont-20-2" "20" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_CLA_APL_cont" 1 0 0 "20.ch" "Davos" 46.76 9.8578 0.25 1457.2 "2084" "2" "20-ch-cont-6-2" "6" "C" "alpine grassland" "Alpine grassland" "2023" 1
+"Swi_Swi_Wahi_24_AC" 0 0.6 0.4 "wh.ch" "Davos" 46.76 9.8578 -1.85 1657.3 "2296" "11" "Wh-ch-cont-2-4" "2" "C" "alpine grassland and heath" "Heath" "2014" 10
+"Swi_Swi_Walo_43_WC" 1 0 0 "wl.ch" "Davos" 46.76 9.8578 -0.25 1627.6 "2033" "11" "Wl-ch-4-3-WC" "12" "OTC" "subalpine heath (Vaccinium ssp.)" "Heath" "2014" 10
+"Swi_Swi_Walo_74_WC" 1 0 0 "wl.ch" "Davos" 46.76 9.8578 -0.25 1627.6 "2033" "11" "Wl-ch-7-4-WC" "14" "OTC" "subalpine heath (Vaccinium ssp.)" "Heath" "2014" 10
+"Swi_Wahi_11_WC" 0 1 0 "wh.ch" "Davos" 46.76 9.8578 -1.85 1657.3 "2296" "11" "Wh-ch-OTC-1-1" "5" "OTC" "alpine grassland and heath" "Heath" "2014" 10
+"Swi_Wahi_12_AC" 0.00145985401459854 0.998540145985401 0 "wh.ch" "Davos" 46.76 9.8578 -1.85 1657.3 "2296" "11" "Wh-ch-cont-1-2" "1" "C" "alpine grassland and heath" "Heath" "2014" 10
+"Swi_Wahi_22_WC" 0 1 0 "wh.ch" "Davos" 46.76 9.8578 -1.85 1657.3 "2296" "11" "Wh-ch-OTC-2-2" "6" "OTC" "alpine grassland and heath" "Heath" "2014" 10
+"Swi_Wahi_4AC" 1 0 0 "wh.ch" "Davos" 46.76 9.8578 -1.85 1657.3 "2296" "11" "Wh-ch-cont-4-4" "3" "C" "alpine grassland and heath" "Heath" "2014" 10
+"Swi_Walo_13_AC" 1 0 0 "wl.ch" "Davos" 46.76 9.8578 -0.25 1627.6 "2033" "11" "Wl-ch-cont-1-3" "15" "C" "subalpine heath (Vaccinium ssp.)" "Heath" "2014" 10
+"Swi_Walo_63_WC" 1 0 0 "wl.ch" "Davos" 46.76 9.8578 -0.25 1627.6 "2033" "11" "Wl-ch-6-3-WC" "13" "OTC" "subalpine heath (Vaccinium ssp.)" "Heath" "2014" 10
+"Ui_Ui_No_C621" 0.0128205128205128 0.987179487179487 0 "ul.no" "Ulvhaugen" 68.54 16.48647155 3.25 1536.3 "24" "9" "Ul-no-cont-6-2" "6" "C" "alpine grassland" "Wet meadow tundra" "2016" 8
+"Ui_Ui_Sp_cont_11_1" 0 1 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-cont-1-1" "1" "C" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Ui_Ui_Sp_OTC_22" 0.0533333333333333 0.946666666666667 0 "ul.sp" "Ulldeter" 42 23 0.65 1289.9 "2400" "6" "Ul-sp-OTC-2-2" "2" "OTC" "Salix herbacea snowbed" "Shrub snowbed" "2019" 5
+"Us_1w_OTC_0901" 1 0 0 "aw.us" "Atqasuk" 64.13 -157.4003018 -10.65 260.7 "17" "29" "Aw-us-cont-9" "4" "C" "Wet Meadow" "Wet meadow tundra" "1996" 28
+"Us_1w_OTC_15_1" 0 1 0 "aw.us" "Atqasuk" 64.13 -157.4003018 -10.65 260.7 "17" "29" "Aw-us-OTC-15" "6" "OTC" "Wet Meadow" "Wet meadow tundra" "1996" 28
+"Us_1w_OTC_171" 0 1 0 "aw.us" "Atqasuk" 64.13 -157.4003018 -10.65 260.7 "17" "29" "Aw-us-cont-17" "3" "C" "Wet Meadow" "Wet meadow tundra" "1996" 28
+"Us_1w_OTC_5_1" 0 1 0 "aw.us" "Atqasuk" 64.13 -157.4003018 -10.65 260.7 "17" "29" "Aw-us-OTC-5" "7" "OTC" "Wet Meadow" "Wet meadow tundra" "1996" 28
+"Us_Nr_18_XXW" 1 0 0 "nr.us" "Niwotridge" 64.13 -105.589602 -2.35 1095.5 "3528" "18" "Nr-us-18-XXW" "4" "OTC" "alpine_grassland" "Alpine grassland" "2007" 17
+"Us_Nr_21_XXW" 1 0 0 "nr.us" "Niwotridge" 64.13 -105.589602 -2.35 1095.5 "3528" "18" "Nr-us-21-XXW" "7" "OTC" "alpine_grassland" "Alpine grassland" "2007" 17
+"Us_Nr_33_XXY" 0 1 0 "nr.us" "Niwotridge" 64.13 -105.589602 -2.35 1095.5 "3528" "18" "Nr-us-33-XXX" "1" "C" "alpine_grassland" "Alpine grassland" "2007" 17
+"Us_Us_Nr_22_XXX" 0.5 0.5 0 "nr.us" "Niwotridge" 64.13 -105.589602 -2.35 1095.5 "3528" "18" "Nr-us-22-XXX" "6" "C" "alpine_grassland" "Alpine grassland" "2007" 17
+"Ut_10w_26_AFO" 0 1 0 "yk.low" "Yukon" 64.3 -165.43 -1.35 743.5 "70" "3" "Yk-lo-T26AFO" "6" "C" "Tundra wetland" "Wet meadow tundra" "2022" 2
+"Ut_Low_22_AFO" 0 0.357142857142857 0.642857142857143 "yk.low" "Yukon" 64.3 -165.43 -1.35 743.5 "70" "3" "Yk-lo-T22AFO" "2" "C" "Tundra wetland" "Wet meadow tundra" "2022" 2
+"Ut_Low_23_AFO" 0.692307692307692 0.307692307692308 0 "yk.low" "Yukon" 64.3 -165.43 -1.35 743.5 "70" "3" "Yk-lo-T23AFO" "3" "C" "Tundra wetland" "Wet meadow tundra" "2022" 2
+"Ut_Low_25_WFO" 0 1 0 "yk.low" "Yukon" 64.3 -165.43 -1.35 743.5 "70" "3" "Yk-lo-T25WFO" "5" "OTC" "Tundra wetland" "Wet meadow tundra" "2022" 2
+"Ut_Low_T22_WFO" 0.0392156862745098 0.529411764705882 0.431372549019608 "yk.low" "Yukon" 64.3 -165.43 -1.35 743.5 "70" "3" "Yk-lo-T22WFO" "2" "OTC" "Tundra wetland" "Wet meadow tundra" "2022" 2
+"Ut_Low_T24_AFO" 0 0 1 "yk.low" "Yukon" 64.3 -165.43 -1.35 743.5 "70" "3" "Yk-lo-T24AFO" "4" "C" "Tundra wetland" "Wet meadow tundra" "2022" 2
+"Ut_UPT_47_AFO" 0 0 1 "yk.up" "Yukon" 64.3 -165.43 -1.35 742.4 "70" "3" "Yk-up-T47AFO" "7" "C" "Tundra heath" "Heath" "2022" 2
+"Ut_UPT_47_WFO" 0 0.0384615384615385 0.961538461538462 "yk.up" "Yukon" 64.3 -165.43 -1.35 742.4 "70" "3" "Yk-up-T47WFO" "7" "OTC" "Tundra heath" "Heath" "2022" 2
+"Ut_Ut_UPT_42_AFO_1" 0 0.6 0.4 "yk.up" "Yukon" 64.3 -165.43 -1.35 742.4 "70" "3" "Yk-up-T42AFO" "2" "C" "Tundra heath" "Heath" "2022" 2
+"Ut_Ut_UPT_42_AFO_2" 0.142857142857143 0.857142857142857 0 "yk.up" "Yukon" 64.3 -165.43 -1.35 742.4 "70" "3" "Yk-up-T42WFO" "2" "OTC" "Tundra heath" "Heath" "2022" 2
+"Ut_Ut_UPT_42_WFO" 1 0 0 "yk.up" "Yukon" 64.3 -165.43 -1.35 742.4 "70" "3" "Yk-up-T43AFO" "3" "C" "Tundra heath" "Heath" "2022" 2
+"Ut_Ut_UPT_45_AFO" 0 0.928571428571429 0.0714285714285714 "yk.up" "Yukon" 64.3 -165.43 -1.35 742.4 "70" "3" "Yk-up-T45AFO" "5" "C" "Tundra heath" "Heath" "2022" 2
+"Ut_Ut_UPT_46_AFO" 0 0 1 "yk.up" "Yukon" 64.3 -165.43 -1.35 742.4 "70" "3" "Yk-up-T46AFO" "6" "C" "Tundra heath" "Heath" "2022" 2
+"Ut_Ut_UPT_46_WFO" 0 1 0 "yk.up" "Yukon" 64.3 -165.43 -1.35 742.4 "70" "3" "Yk-up-T46WFO" "6" "OTC" "Tundra heath" "Heath" "2022" 2
+"Zwi_Val_B_011_OTC_1" 0.6 0.4 0 "vb.ch" "Valbercla" 46.48 9.584303 -2.45 2039.2 "2500" "31" "Vb-ch-OTC-1" "6" "OTC" "high alpine grassland" "Alpine grassland" "1994" 30
+"Zwi_Val_B_02l_OTC_2" 0.0392156862745098 0.941176470588235 0.0196078431372549 "vb.ch" "Valbercla" 46.48 9.584303 -2.45 2039.2 "2500" "31" "Vb-ch-OTC-2" "7" "OTC" "high alpine grassland" "Alpine grassland" "1994" 30
+"Zwi_Val_B_C_81C8" 0.0833333333333333 0.916666666666667 0 "vb.ch" "Valbercla" 46.48 9.584303 -2.45 2039.2 "2500" "31" "Vb-ch-cont-8" "5" "C" "high alpine grassland" "Alpine grassland" "1994" 30
+"Zwi_Val_B_C11_C1" 0.206153846153846 0.793846153846154 0 "vb.ch" "Valbercla" 46.48 9.584303 -2.45 2039.2 "2500" "31" "Vb-ch-cont-1" "1" "C" "high alpine grassland" "Alpine grassland" "1994" 30
+"Zwi_Val_B_C24_C2" 0.00862068965517241 0.991379310344828 0 "vb.ch" "Valbercla" 46.48 9.584303 -2.45 2039.2 "2500" "31" "Vb-ch-cont-2" "2" "C" "high alpine grassland" "Alpine grassland" "1994" 30
+"Zwi_Val_B_C4_1C4" 0 1 0 "vb.ch" "Valbercla" 46.48 9.584303 -2.45 2039.2 "2500" "31" "Vb-ch-cont-4" "3" "C" "high alpine grassland" "Alpine grassland" "1994" 30
+"Zwi_Val_B_C6" 0 1 0 "vb.ch" "Valbercla" 46.48 9.584303 -2.45 2039.2 "2500" "31" "Vb-ch-cont-6" "4" "C" "high alpine grassland" "Alpine grassland" "1994" 30
+"Zwi_Val_B0616_OTC" 0 1 0 "vb.ch" "Valbercla" 46.48 9.584303 -2.45 2039.2 "2500" "31" "Vb-ch-OTC-6" "9" "OTC" "high alpine grassland" "Alpine grassland" "1994" 30
